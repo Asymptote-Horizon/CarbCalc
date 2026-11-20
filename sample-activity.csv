@@ -1,0 +1,4 @@
+date,commute_km,mileage_kmpl,passengers,electricity_kwh_month,occupants,waste_kg_day
+2026-11-18,12,45,1,120,3,0.25
+2026-11-19,8,45,2,120,3,0.20
+2026-11-20,10,45,1,105,3,0.18
